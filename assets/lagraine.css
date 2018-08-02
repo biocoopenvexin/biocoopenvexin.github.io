@@ -29,3 +29,32 @@ body .jumbotron .teaserEm {
 body .teaser, body .teaserEm {
     color: #fff;
 }
+
+body .jumbotron .hours {
+    background-color: rgba(255,255,255,.7);
+    padding: 20px 50px;
+    text-align: left;
+}
+
+body .hours {
+    font-size: 18px;
+}
+
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+
+body .social {
+    text-align: center;
+}
+
+body .biocoop {
+    text-align: left;
+}
