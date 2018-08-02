@@ -66,11 +66,17 @@ body .hours {
 
 body .social {
     text-align: center;
-    padding-left: 50px;
+    padding-left: 25px;
 }
 
 body .social img {
     height: 50px;
+}
+
+body .social .a-propos {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
 }
 
 body .biocoop {
