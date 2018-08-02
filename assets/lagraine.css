@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,700');
+
 body {
     font-size: 14px;
     line-height: 1.42857;
@@ -11,7 +13,7 @@ body {
     font-family: 'Arvo', serif;
 }
 
-.jumbotron {
+body .jumbotron {
   background: 0 0;
   padding-top: 48px;
   padding-bottom: 48px;
