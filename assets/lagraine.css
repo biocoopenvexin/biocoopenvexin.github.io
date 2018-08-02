@@ -53,6 +53,14 @@ body .hours {
     font-size: 18px;
 }
 
+body .jumbotron .apropos {
+  font-size: 16px;
+}
+
+body .jumbotron .apropos img {
+    height: 693px;
+}
+
 .glyphicon {
     position: relative;
     top: 1px;
