@@ -68,6 +68,10 @@ body .social {
     text-align: center;
 }
 
+body .social img {
+    height: 50px;
+}
+
 body .biocoop {
     text-align: left;
 }
