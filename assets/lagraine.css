@@ -76,7 +76,8 @@ body .social img {
 body .social .a-propos {
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 25px;
+    color: #fff;
 }
 
 body .biocoop {
