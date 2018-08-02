@@ -1,4 +1,31 @@
+body {
+    font-size: 14px;
+    line-height: 1.42857;
+    color: #333;
+    background-image: url(images/bg@0,3x-335d9a2….jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    font-family: Arvo,serif;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+
+body .jumbotron img {
+    height: 250px;
+}
+
 body .jumbotron .teaserEm {
     text-transform: uppercase;
     font-weight: 700;
+}
+
+body .teaser, body .teaserEm {
+    color: #fff;
 }
