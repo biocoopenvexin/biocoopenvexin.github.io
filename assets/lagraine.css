@@ -58,7 +58,7 @@ body .jumbotron .apropos {
 }
 
 body .jumbotron .apropos img {
-    height: 693px;
+    height: 400px;
 }
 
 .glyphicon {
@@ -86,6 +86,10 @@ body .social .a-propos {
     font-weight: 700;
     font-size: 25px;
     color: #fff;
+}
+
+.ensemble {
+  height: 150px;
 }
 
 body .biocoop {
